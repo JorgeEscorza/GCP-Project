@@ -105,4 +105,4 @@ This project demonstrates the successful deployment of a networked infrastructur
 
 ## Connect with Me on LinkedIn
 
-Want to learn more about this project or connect professionally? You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/jorge-luis-escorza-s%C3%A1nchez-9ab935325/);
+Want to learn more about this project or connect professionally? You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/jorge-luis-escorza-s%C3%A1nchez-9ab935325/)
